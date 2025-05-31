@@ -1,0 +1,273 @@
+{
+    "en": {
+        "styles": {
+            "bg": "#f3f4f1",
+            "primary": "#25ac61",
+            "primary-text": "#222829",
+            "primary-light": "#77d09f",
+            "primary-light-text": "#deeadf",
+            "secondary": "#fb333d",
+            "secondary-text": "#ffffff",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "http:\/\/localhost:8000\/api\/fonts\/download\/14",
+                "isCustom": true
+            }
+        },
+        "seo": {
+            "title": "Paf Casino Sverige: Licensierat kasino med bonusar och coola spel",
+            "description": "Paf Casino Sweden erbjuder snabba uttag, satsningsfria bonusar, ett brett urval av spel, s\u00e4kra ins\u00e4ttningar och uttag. Spela med komfort och s\u00e4kerhet och gl\u00f6m inte att h\u00e4mta din bonus!",
+            "canonical": "#",
+            "ogImage": "http:\/\/localhost:8000\/api\/images\/download\/110",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "@pafcasino",
+            "favicon": "http:\/\/localhost:8000\/api\/images\/download\/111",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "http:\/\/localhost:8000\/api\/images\/download\/112"
+        },
+        "header": {
+            "logo": "http:\/\/localhost:8000\/api\/images\/download\/113",
+            "logoAlt": "Paf Casino Sverige Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "hero": {
+            "title": "Welcome Bonus",
+            "textDesktop": "Exclusive welcome offer of",
+            "textMobile": "Exclusive welcome bonus of",
+            "playGame": "Play game",
+            "claimBonus": "Claim Bonus",
+            "image": "http:\/\/localhost:8000\/api\/images\/download\/114",
+            "mobileImage": "http:\/\/localhost:8000\/api\/images\/download\/115"
+        },
+        "topCasino": {
+            "title": "Top Casino",
+            "allCasino": "All Casino"
+        },
+        "bonusDetails": {
+            "title": "Bonus Details",
+            "casino": "Casino",
+            "bonuses": "Bonuses",
+            "rate": "Rate",
+            "freeSpins": "Free Spins",
+            "moreInfo": "More Info",
+            "get": "Get",
+            "refresh": "Refresh"
+        },
+        "advantages": {
+            "title": "Advantages",
+            "items": [
+                "Legal and safe casino",
+                "Quick registration",
+                "Data protection",
+                "No wagering bonus",
+                "Wide range of games"
+            ],
+            "knowMore": "Know more",
+            "appTitle": "Mobile App",
+            "mobile": "http:\/\/localhost:8000\/api\/images\/download\/117",
+            "mobileAlt": "Mobile App"
+        },
+        "games": {
+            "title": "Popular Games",
+            "allGames": "All Games"
+        },
+        "about": {
+            "history": {
+                "title": "History",
+                "description1": "Paf Casino Sweden erbjuder snabba uttag, satsningsfria bonusar, ett brett urval av spel, s\u00e4kra ins\u00e4ttningar och uttag. Spela med komfort och s\u00e4kerhet och gl\u00f6m inte att h\u00e4mta din bonus!",
+                "items": [
+                    "v\u00e4lkomstbonus",
+                    "mer \u00e4n 2000 slots",
+                    "exklusiva spel"
+                ],
+                "description2": "Paf Casino \u00e4r en av de st\u00f6rsta och mest v\u00e4lk\u00e4nda spelplattformarna i Sverige. Det erbjuder fantastiska spelval med sp\u00e4nnande bonusar och snabba, s\u00e4kra betalningar. Casino Paf \u00e4gs av det stora f\u00f6retaget \u00c5lands Penningautomatf\u00f6rening, som bildades redan 1966. Detta inneb\u00e4r att utvecklarna vet exakt vad spel\u00e4lskare skulle beh\u00f6va och tycka om.",
+                "image": "https:\/\/paf-casino-online.com\/_next\/image?url=%2F_next%2Fstatic%2Fmedia%2FMacBook-Pro.b62d8565.webp&w=750&q=75",
+                "imageAlt": "History",
+                "description3": "Tj\u00e4nsten f\u00f6ljer strikt principerna f\u00f6r ansvarsfullt spelande, vilket \u00e4r en av de viktigaste funktionerna i detta kasino. Plattformen engagerar sig aktivt i v\u00e4lg\u00f6renhetsarbete och donerar en del av vinsten till olika projekt. Om du undrar, \u201d\u00e4r Paf Casino bra?\u201d - svaret \u00e4r ja. Det \u00e4r ett utm\u00e4rkt, \u00e4rligt, p\u00e5litligt och s\u00e4kert online casino. Om du vill spela och njuta av den otroliga v\u00e4rlden av onlinespel \u00e4r det dags att g\u00e5 med i den enorma gemenskapen av Paf Casino online-fans."
+            },
+            "connect": {
+                "title": "Registreringsprocess: Www Paf Casino Com",
+                "description1": "F\u00f6r att skapa en Paf Casino logga in m\u00e5ste du slutf\u00f6ra n\u00e5gra enkla steg. Registreringen tar minimal tid och kr\u00e4ver inte att du fyller i olika formul\u00e4r. Kasinot anv\u00e4nder det popul\u00e4ra svenska identifieringssystemet BankID. F\u00f6r att registrera dig g\u00f6r du helt enkelt f\u00f6ljande:",
+                "items": [
+                    "\u00d6ppna huvudsidan p\u00e5 kasinots webbplats;",
+                    "Klicka p\u00e5 registreringsknappen;",
+                    "Fyll i snabb auktorisering med hj\u00e4lp av BankID;",
+                    "Bekr\u00e4fta inloggningen via mobilapplikationen och avsluta processen."
+                ],
+                "description2": "Den enda mindre nackdelen \u00e4r att det inte finns n\u00e5got alternativ att ange en Paf Casino bonuskod under registreringen. Processen f\u00f6r att skapa konto tar dock mindre \u00e4n en minut."
+            },
+            "deposit1": {
+                "title": "Ins\u00e4ttningsmetoder: Paf Casino Mariehamn",
+                "description1": "F\u00f6r att aktivera v\u00e4lkomstbonusen och f\u00e5 tillg\u00e5ng till spelen m\u00e5ste du g\u00f6ra en f\u00f6rsta ins\u00e4ttning. Du kan anv\u00e4nda olika betalningsmetoder:",
+                "items": [
+                    "Swish",
+                    "Mastercard",
+                    "Visa",
+                    "Neteller",
+                    "Skrill",
+                    "Trustly"
+                ],
+                "description2": "Minsta ins\u00e4ttningsbelopp \u00e4r 100 SEK. Inga ytterligare avgifter tas ut och pengarna krediteras direkt."
+            },
+            "deposit2": {
+                "title": "Uttagsmetoder: Bono Casino Paf",
+                "description1": "Uttag \u00e4r tillg\u00e4ngliga utan behov av verifiering. V\u00e4lkomstbonusen beh\u00f6ver inte heller satsas. F\u00f6ljande betalningsmetoder kan anv\u00e4ndas",
+                "items": [
+                    "Swish",
+                    "Skrill",
+                    "F\u00f6rtroendefullt",
+                    "Neteller",
+                    "Bank\u00f6verf\u00f6ring"
+                ],
+                "description2": "Det l\u00e4gsta uttagsbeloppet f\u00f6r Paf Casino uttag \u00e4r 100 SEK. Behandlingstiden varierar dock fr\u00e5n 6 till 24 timmar. Bank\u00f6verf\u00f6ringar kan ta upp till 3 arbetsdagar"
+            }
+        },
+        "payMethod": {
+            "title": "Payment Methods",
+            "method": "Method",
+            "type": "Type",
+            "country": "Country",
+            "commission": "Commission",
+            "processingTime": "Processing Time",
+            "minimumDeposit": "Minimum Deposit",
+            "deposit": "Deposit"
+        },
+        "security": {
+            "title1": "Programvaruteknologier: Paf Casino En Vivo",
+            "description1": "Kasinot har samarbetat med n\u00e5gra av de v\u00e4rldsklassiga leverant\u00f6rerna av spelprogramvara baserade i Sverige. Dessa \u00e4r spel som produceras av NetEnt, Games Global, Evolution Gaming, Pragmatic Play och en m\u00e4ngd andra utvecklare. Dessutom g\u00f6r Paf sina egna exklusiva spel, som bara kan hittas p\u00e5 denna plattform",
+            "title2": "S\u00e4kerhet: Paf Casino Bonos",
+            "description2": "En giltighetslicens och en bra m\u00e4ngd s\u00e4kerhet och s\u00e4kerhet f\u00f6r spelare ges p\u00e5 kasinot, med h\u00f6gteknologi och anv\u00e4ndning av BankID f\u00f6r registrering och identitetsverifiering, SSL-kryptering f\u00f6r skydd av data och kontroll och andra s\u00e4kerhets\u00e5tg\u00e4rder avseende ansvarsfullt spelande"
+        },
+        "softwareProviders": {
+            "title": "Software Providers"
+        },
+        "application": {
+            "title": "App: Paf Casino No Deposit Bonus Code",
+            "description1": "Det finns ingen Paf Casino-app tillg\u00e4nglig. Detta \u00e4r dock inte en betydande nackdel, eftersom webbplatsen \u00e4r byggd med HTML5-teknik. Detta g\u00f6r att du s\u00f6ml\u00f6st kan spela via Paf Casino mobil version. \u00d6ppna helt enkelt kasinots webbplats i din mobila webbl\u00e4sare och njut av smidigt spel.",
+            "image": "http:\/\/localhost:8000\/api\/images\/download\/118",
+            "imageAlt": "Mobile Application"
+        },
+        "idioma": {
+            "title1": "Valutor: Paf Casino No Deposit Bonus",
+            "description1": "Den prim\u00e4ra valutan f\u00f6r denna speltj\u00e4nst \u00e4r svenska kronor (SEK). Ins\u00e4ttningar och uttag behandlas i SEK. N\u00e4r du anv\u00e4nder vissa betalningsmetoder kan spelare dock s\u00e4tta in och ta ut i euro (EUR).",
+            "title2": "Spr\u00e5k: Paf Com Casino",
+            "description2": "Plattformen fungerar i Sverige och Finland, och gr\u00e4nssnittet finns tillg\u00e4ngligt p\u00e5 svenska och finska. Vissa avsnitt finns ocks\u00e5 p\u00e5 engelska"
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "items": [
+                {
+                    "title": "Hur registrerar jag mig p\u00e5 webbplatsen? 1",
+                    "answer": "Registrering p\u00e5 detta online casino sker via BankID.\n\n"
+                },
+                {
+                    "title": "Hur registrerar jag mig p\u00e5 webbplatsen? 2",
+                    "answer": "Registrering p\u00e5 detta online casino sker via BankID.\n\n"
+                },
+                {
+                    "title": "Hur registrerar jag mig p\u00e5 webbplatsen? 3",
+                    "answer": "Registrering p\u00e5 detta online casino sker via BankID.\n"
+                }
+            ]
+        },
+        "availableGames": {
+            "title": "Spel tillg\u00e4ngliga att spela: Paf Casino Kokemuksia",
+            "description": "En av de obestridliga f\u00f6rdelarna med Paf Casino topplista \u00e4r dess imponerande spelalternativ. H\u00e4r kan du njuta av klassiska kasinospel, spela med live-\u00e5terf\u00f6rs\u00e4ljare och till och med placera sportspel. Dessutom erbjuder plattformen exklusiva spel",
+            "column1": [
+                {
+                    "title": "Paf Casino Slots",
+                    "description": "Den st\u00f6rsta kategorin p\u00e5 Paf Casino Trustpilot \u00e4r slots. Plattformen har en fantastisk samling av klassiska och moderna videoslots. Du hittar spel med progressiva jackpottar, bonusk\u00f6p, Megaways-funktioner, temaslots och mycket mer. V\u00e4lj helt enkelt ditt spel och b\u00f6rja snurra!"
+                },
+                {
+                    "title": "Paf Casino Blackjack och bordsspel",
+                    "description": "Ett alternativt alternativ \u00e4r en m\u00e4ngd olika kort- och bordsspel som drivs av en slumptalsgenerator. Du kan spela videopoker, baccarat, blackjack, fransk och europeisk roulette och m\u00e5nga andra sp\u00e4nnande spel"
+                }
+            ],
+            "column2": [
+                {
+                    "title": "Exklusiva spel: Paf Casino Flashback",
+                    "description": "En annan unik egenskap hos denna plattform \u00e4r dess samling av exklusiva spel. Det h\u00e4r \u00e4r specialprojekt som utvecklats exklusivt f\u00f6r detta online casino, vilket inneb\u00e4r att du inte hittar dem n\u00e5gon annanstans."
+                },
+                {
+                    "title": "Live \u00e5terf\u00f6rs\u00e4ljare: Paf Online Casino",
+                    "description": "Paf live Casino sektionen \u00e4r en av de mest bes\u00f6kta webbplatserna av svenska spelare. Detta \u00e4r en sp\u00e4nnande spelupplevelse som m\u00f6jligg\u00f6r interaktion med riktiga \u00e5terf\u00f6rs\u00e4ljare direkt p\u00e5 sk\u00e4rmen p\u00e5 din enhet. Du kan kommunicera med dem, st\u00e4lla fr\u00e5gor och spela live. Det finns live dealer-spel som \u00e4r v\u00e4rda att prova om du s\u00f6ker en annan spelupplevelse!"
+                }
+            ]
+        },
+        "support": {
+            "title": "St\u00f6d och support: Paf Casino Minsta Uttag",
+            "description1": "Om du beh\u00f6ver kundsupport kan du kontakta teamet via flera kanaler",
+            "items": [
+                "Live chatt",
+                "E-post",
+                "Telefonsupport (f\u00f6r svenska spelare)",
+                "FAQ-avsnitt"
+            ],
+            "description2": "Livechatt \u00e4r endast tillg\u00e4nglig f\u00f6r registrerade spelare och fungerar fr\u00e5n 8:00 till midnatt. E-postsupport svarar inom 12 timmar. Telefonsupport \u00e4r gratis f\u00f6r svenska spelare",
+            "image": "http:\/\/localhost:8000\/api\/images\/download\/119",
+            "imageAlt": "Support"
+        },
+        "bonuses": {
+            "title": "Bonusar och kampanjer: Paf Casino Ahvenanmaa",
+            "description": "Det \u00e4r r\u00e4ttvist att s\u00e4ga att Paf Casino bonus avsnittet inte \u00e4r det mest omfattande. En av de f\u00e5 nackdelarna med denna plattform \u00e4r dess begr\u00e4nsade antal kampanjer och bonuserbjudanden. Men b\u00e5de nya och vanliga spelare har fortfarande m\u00f6jligheter att kr\u00e4va bel\u00f6ningar.",
+            "column1": [
+                {
+                    "title": "V\u00e4lkomsterbjudande: Paf Casino Bonuses",
+                    "description": "Nya spelare h\u00e4lsas med ett Paf Casino free spins-erbjudande. F\u00f6r att aktivera denna bonus, registrera dig helt enkelt och s\u00e4tt in minst 100 SEK. N\u00e4r du har gjort det f\u00e5r du automatiskt 99 gratissnurr. Den b\u00e4sta delen? Denna bonus har inga oms\u00e4ttningskrav! Om du vinner med dina gratissnurr kan du omedelbart ta ut dina vinster."
+                },
+                {
+                    "title": "Turneringar varje vecka",
+                    "description": "S\u00e4rskilda turneringar med stora prispottar h\u00e5lls regelbundet p\u00e5 webbplatsen. I de flesta fall kr\u00e4vs ingen anm\u00e4lningsavgift. B\u00f6rja helt enkelt spela, uppfylla turneringsvillkoren och kl\u00e4ttra p\u00e5 topplistan. Ju h\u00f6gre du rankas, desto st\u00f6rre blir din andel av prispotten"
+                }
+            ],
+            "column2": [
+                {
+                    "title": "\u00c5terbetalning",
+                    "description": "Aktiva spelare f\u00e5r regelbundna cashback-bel\u00f6ningar. Procentsatsen och beloppet f\u00f6r cashback beror p\u00e5 hur mycket kasinot har vunnit fr\u00e5n dig under kvalificeringsperioden"
+                },
+                {
+                    "title": "Personliga bonusar",
+                    "description": "Lojala spelare bel\u00f6nas med exklusiva priser och g\u00e5vor. Om du ofta spelar, g\u00f6r ins\u00e4ttningar och h\u00e5ller dig aktiv f\u00e5r du speciella bel\u00f6ningar som en personlig Paf Casino bonus code, ett paket med gratissnurr eller bonuspengar f\u00f6r sportspel"
+                }
+            ]
+        },
+        "prosAndCons": {
+            "title": "F\u00f6rdelar och nackdelar: Paf - Games Sport Casino",
+            "description": "En viktig del av en Paf Casino review \u00e4r att lista f\u00f6rdelarna och nackdelarna med denna spelplattform. Genom att analysera dess styrkor och svagheter kan potentiella kunder avg\u00f6ra om kasinot uppfyller deras krav och preferenser",
+            "pros": {
+                "title": "F\u00f6rdelar med",
+                "items": [
+                    "lagligt och s\u00e4kert kasino",
+                    "snabb registrering",
+                    "dataskydd",
+                    "satsningsfri bonus",
+                    "brett utbud av spel",
+                    "live casino",
+                    "sportspel",
+                    "snabba uttag"
+                ]
+            },
+            "cons": {
+                "title": "Nackdelar",
+                "items": [
+                    "inga mobila applikationer",
+                    "\u00e5tkomst endast fr\u00e5n Sverige och Finland",
+                    "f\u00e5 bonusar"
+                ]
+            }
+        },
+        "footer": {
+            "copyright": "Paf Casino"
+        },
+        "seoId": null
+    }
+}
